@@ -1,4 +1,5 @@
 # custom ignore
+os_secrets.py
 secrets.py
 wandb/
 *.npy
